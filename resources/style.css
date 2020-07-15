@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box
+}
+
+html {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: calc(3rem + 2px);
+    font-weight: normal;
+}
+
+a {
+    color: aquamarine;
+}
+
+.mp4container {
+    margin-top: 3%;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: calc(3rem - 6px);
+}
+
+p {
+    font-size: calc(1rem + 5px);
+    color: gray;
+}
+
+.iconcontainer {
+    margin: 2% 0 4% 0;
+}
+
+footer {
+    text-align: right;
+    padding: 5%;
+}
+
+
